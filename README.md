@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeming Liu (刘泽铭)  <img src="https://imgcdn.sigstick.com/NeqD2mm7O7HjGZpA2FUI/10-1.thumb128.webp" width="50"></h1>
+<h1 align="center">Hi 👋, I'm Zeming Liu (刘泽铭)  <img src="https://imgcdn.sigstick.com/NeqD2mm7O7HjGZpA2FUI/10-1.thumb128.webp" width="45"></h1>
 
 ## **About Me**<img src="https://imgcdn.sigstick.com/GtwhJc8xbeBCyoIzTgwk/2-1.thumb128.png" width="35">
 I'm an **Undergrad Student💻 [@SZU](https://csse.szu.edu.cn/)** and an **Incoming Grad Student🎓 [@SCUT](https://www2.scut.edu.cn/cs/)** majoring in Computer Science.
