@@ -3,7 +3,7 @@
 ## **About Me**<img src="https://imgcdn.sigstick.com/GtwhJc8xbeBCyoIzTgwk/2-1.thumb128.png" width="35">
 I'm an **Undergrad Student💻 [@SZU](https://csse.szu.edu.cn/)** and an **Incoming Grad Student🎓 [@SCUT](https://www2.scut.edu.cn/cs/)** majoring in Computer Science.
 
-I’m a **AI Tech enthusiast** 🤖 currently exploring fields like MLLM 📚, and AIGC 🎨. In the past, I’ve also dabbled in **Software Development Skills** 🛠️. 
+I’m a **AI Tech enthusiast** 🤖 currently exploring fields like MLLM 📚, and AIGC 🎨. In the past, I’ve also dabbled in **Software Development and NLP.** 🛠️
 
 Besides, I’m a **sci-fi novel lover** 📖 and a huge fan of **小刘鸭** 🦆😍!
 ##  **Work & Learning <img src="https://imgcdn.sigstick.com/mI49g7z4OAzFPOFhnVQN/9-1.thumb128.png" width="35">**
