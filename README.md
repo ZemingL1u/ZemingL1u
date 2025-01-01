@@ -9,8 +9,8 @@ Besides, I’m a **sci-fi novel lover** 📖 and a huge fan of **小刘鸭** �
 ##  **Work & Learning <img src="https://imgcdn.sigstick.com/mI49g7z4OAzFPOFhnVQN/9-1.thumb128.png" width="35">**
 
 - 🔭 I’m currently working at **OPPO AI Center** 🤖, where I’m focusing on 
-  - **Building a text-to-image data ecosystem. 🖼️**
-  - **Developing automated tools for image quality and aesthetics aesassessment .🛠️**
+  - Building a **text-to-image data ecosystem. 🖼️**
+  - Developing automated tools for **image quality and aesthetics aesassessment .🛠️**
 - 🌱 I’m currently learning **MLLM and AIGC** 🤖, especially focusing on **Image and Video generation and editing.** 🎥.
 - 👨‍💻 All of my projects are available at [**ZemingL1u.**](https://github.com/ZemingL1u)
 - 💑 Special shoutout to my love, who is also a computer science student: [**qiaoyuewan00.**](https://github.com/qiaoyuewan00) ❤️
