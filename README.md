@@ -12,7 +12,7 @@ Besides, I’m a **sci-fi novel lover** 📖 and a huge fan of **小刘鸭** �
   - **Building a text-to-image data ecosystem. 🖼️**
   - **Developing automated tools for image quality and aesthetics aesassessment .🛠️**
 - 🌱 I’m currently learning **MLLM and AIGC** 🤖, especially focusing on **Image and Video generation and editing** 🎥.
-- 👨‍💻 All of my projects are available at [**github.com/ZemingL1u.**](https://github.com/ZemingL1u)
+- 👨‍💻 All of my projects are available at [**ZemingL1u.**](https://github.com/ZemingL1u)
 - 💑 Special shoutout to my love, who is also a computer science student: [**qiaoyuewan00**](https://github.com/qiaoyuewan00) ❤️
 - 📫 How to reach me **Buuugmaker@163.com.**
 ## My GitHub Stats <img src="https://imgcdn.sigstick.com/GtwhJc8xbeBCyoIzTgwk/8-1.thumb128.png" width="35">
